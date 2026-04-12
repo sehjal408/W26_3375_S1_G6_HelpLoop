@@ -21,5 +21,6 @@ Prototype link: https://www.figma.com/proto/06w9AU54eBE5vHRwVlbI2R/W26_3375_S1_G
 
 Instruction to see Prototype:
 Open the Figma URL provided above.
-Click the “Play” (Present) button in the top right corner to launch the prototype.
 Then, click through the screens to explore the user flow and features.
+
+Note: If prototype doesn't launch automatically, please open the "Final Flow" file and click the “Play” (Present) button in the top right corner to launch the prototype.
